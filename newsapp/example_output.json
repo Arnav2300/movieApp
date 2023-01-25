@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Diana Olick",
+      "title": "Mortgage demand jumps nearly 28% in one week, as interest rates drop to lowest point in months - CNBC",
+      "description": "Mortgage rates are at the lowest level since September, and that is bringing new demand into the mortgage market.",
+      "url": "https://www.cnbc.com/2023/01/18/mortgage-demand-jumps-interest-rates-drop.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107100450-1659971734911-gettyimages-1347125073-120_0821_125790.jpeg?v=1674043202&w=1920&h=1080",
+      "publishedAt": "2023-01-18T12:00:02Z",
+      "content": "Consumers returned from the holiday season to find mortgage rates at their lowest point since September, and they are responding in dramatic fashion.\r\nMortgage application volume jumped nearly 28% la… [+1472 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lianne Kolirin",
+      "title": "Jay Briscoe, US pro wrestling star, dead at 38 - CNN",
+      "description": "The US wrestling world is in shock after the death was announced of professional wrestler Jay Briscoe at age 38.",
+      "url": "https://www.cnn.com/2023/01/18/sport/jay-briscoe-wrestler-death-scli-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118040555-01-jay-briscoe-obit-101516.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-18T11:30:00Z",
+      "content": "Professional wrestler Jay Briscoe has died at age 38. \r\nThe US wrestling world is in shock following the announcement of the death of the Ring of Honor (ROH) star, whose real name was Jamin Pugh. \r\nT… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rachel Ramirez, Laura Paddison, Inke Kappeler, Lindsay Isaac, Nadine Schmidt",
+      "title": "Climate activist Greta Thunberg released after being detained by German police at coal mine protest - CNN",
+      "description": "Climate activist Greta Thunberg has been released by police after being briefly detained at a protest in Germany.",
+      "url": "https://www.cnn.com/2023/01/18/europe/greta-thunberg-released-germany-climate-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230117115638-greta-thunberg-detained-011723.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-18T10:45:00Z",
+      "content": "Swedish climate activist Greta Thunberg was released by German police on Tuesday evening after being detained earlier in the day at a protest over the expansion of a coal mine in the western village … [+3984 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ben Morse",
+      "title": "After mysterious comments at end of season press conference, what's next for Tom Brady? - CNN",
+      "description": "One of the leading storylines that will dominate the NFL offseason will be where will Tom Brady be plying his trade next season -- if at all?",
+      "url": "https://www.cnn.com/2023/01/18/sport/tom-brady-future-2023-nfl-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118094327-04-tom-brady-future-2023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-18T10:33:00Z",
+      "content": "One of the leading storylines that will dominate the NFL offseason will be where will Tom Brady be plying his trade next season if at all? \r\nThe 45-year-old has just finished one of his most turbulen… [+5748 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Maria Kostenko, Sophie Tanno, Brent Swails",
+      "title": "Helicopter crash near Kyiv kills 18, including Ukrainian interior minister - CNN",
+      "description": "A helicopter crash near a kindergarten in the Kyiv region has killed at least 18 people, including Ukraine's entire interior ministry leadership team, according to officials.",
+      "url": "https://www.cnn.com/2023/01/18/europe/helicopter-crash-ukraine-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118082443-01-brovary-helicopter-crash-011823.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-18T10:14:00Z",
+      "content": "A helicopter crash near a kindergarten in the Kyiv region has killed at least 18 people, including Ukraines entire interior ministry leadership team, according to officials.\r\nAt least 29 others were … [+2114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Journal News | LoHud.com"
+      },
+      "author": ", The Journal News",
+      "title": "Six GOP congressmen from NY say embattled colleague George Santos should resign for lies - The Journal News",
+      "description": "Six fellow New York Republican congressmen who took office this month say Rep. George Santos should resign for deceiving voters about his background.",
+      "url": "https://www.lohud.com/story/news/politics/2023/01/18/george-santos-republicans-in-new-york-call-on-congressman-to-resign-for-lying/69814054007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/14/USAT/1300cefd-efa5-4f52-923e-721ad58ba2a7-GTY_1454015933.jpg?auto=webp&crop=2337,1315,x0,y159&format=pjpg&width=1200",
+      "publishedAt": "2023-01-18T09:58:26Z",
+      "content": "Most Republican House members from New York are ready to see GOP Rep. George Santos leave less than two weeks after he took office, with six saying he should resign for a string of campaign lies expo… [+4811 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Aamer Madhani",
+      "title": "Netherlands says it will send Patriot assistance to Ukraine - The Associated Press - en Español",
+      "description": "WASHINGTON (AP) — Netherlands Prime Minister Mark Rutte  said Tuesday that his country plans to \"join” the U.S. and Germany's efforts to train and arm Ukraine with advanced Patriot defense systems.",
+      "url": "https://apnews.com/article/russia-ukraine-biden-politics-netherlands-government-united-states-03128d7faeb04340cc8a1421cf6ae42e",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4acdae97a52b43e4a9aaffb4f78f6eae/3000.webp",
+      "publishedAt": "2023-01-18T09:34:18Z",
+      "content": "WASHINGTON (AP) Netherlands Prime Minister Mark Rutte said Tuesday that his country plans to join the U.S. and Germanys efforts to train and arm Ukraine with advanced Patriot defense systems.\r\nRutte … [+5573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spaceflight Now"
+      },
+      "author": null,
+      "title": "Watch live: GPS navigation satellite set for launch on SpaceX rocket – Spaceflight Now - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2023/01/17/gps-navigation-satellite-set-for-launch-on-spacex-rocket/",
+      "urlToImage": null,
+      "publishedAt": "2023-01-18T07:52:30Z",
+      "content": "Watch our live coverage of the countdown and launch of a SpaceX Falcon 9 rocket at 7:24 a.m. EST (1224 GMT) on Jan. 18 from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, wit… [+7258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Daniel Petrov",
+      "title": "Samsung Galaxy S23 preorder reservations are live, score an S23 Ultra deal! - PhoneArena",
+      "description": "Samsung opened the Galaxy S23 series preorder reservations with early bird deals.",
+      "url": "https://www.phonearena.com/news/samsung-galaxy-s23-preorder-reservations-offer_id144719",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/144719-wide-two_1200/Samsung-Galaxy-S23-preorder-reservations-are-live-score-an-S23-Ultra-deal.jpg",
+      "publishedAt": "2023-01-18T07:40:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ruxandra Iordache",
+      "title": "UK inflation rate dips for second straight month to hit 10.5% - CNBC",
+      "description": "The core CPI, which excludes food, energy, alcohol and tobacco, was steady on the month at 6.3% in December, the ONS found.",
+      "url": "https://www.cnbc.com/2023/01/18/uk-inflation-rate-dips-for-second-straight-month-to-hit-10point5percent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107138821-1666364847204-gettyimages-1435277244-dp1_4585_2739b4a4-bbd4-4ce8-8599-9ffe6f6beeab.jpeg?v=1674029878&w=1920&h=1080",
+      "publishedAt": "2023-01-18T07:12:52Z",
+      "content": "LONDON U.K. inflation eased on the month, in line with economists' expectations, as fuel, clothing and recreational costs dragged down the index.\r\nInflation softened to 10.5% in December, down from t… [+2178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Vivian Chow",
+      "title": "Family of Orange County lawyer found dead in Mexico speaks out, says he was the victim of ‘brutal crime’ - KTLA Los Angeles",
+      "description": "The family of an Orange County public defender who died in Mexico while celebrating his one-year wedding anniversary is speaking out on Tuesday, claiming his death was a “brutal crime.” Elliot Blair, 33, died early Saturday at Las Rocas Resort and Spa in Rosa…",
+      "url": "https://ktla.com/news/local-news/family-of-orange-county-lawyer-found-dead-in-mexico-speaks-out-says-he-was-the-victim-of-brutal-crime/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/01/Orange-County-Sheriffs-department-16.png?w=1280",
+      "publishedAt": "2023-01-18T05:26:15Z",
+      "content": "The family of an Orange County public defender who died in Mexico while celebrating his one-year wedding anniversary is speaking out on Tuesday, claiming his death was a “brutal crime.”\r\nElliot Blair… [+3789 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Kana Inagaki, Leo Lewis",
+      "title": "Bank of Japan defies market pressure and holds firm on yield curve control - Financial Times",
+      "description": "Yen tumbles 2% after decision to maintain ultra-loose monetary policy",
+      "url": "https://www.ft.com/content/eb7fae97-18dd-4026-b4b7-35060a5b1f7b",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1bcb322f-8db0-46e0-9b20-376ac19e8300.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-01-18T05:18:21Z",
+      "content": "The Bank of Japan has defied market pressure and left its yield curve control measures unchanged, sending the yen diving and pushing stocks higher as it stuck to a core pillar of its ultra-loose mone… [+3623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Sami Fathi",
+      "title": "Apple's Website Suggests M2 and M2 Pro Mac Announcements Were Originally Set for Fall 2022 - MacRumors",
+      "description": "Information embedded within Apple's website suggests that this week's new Mac announcements, including the M2 Pro and M2 Max chips, were...",
+      "url": "https://www.macrumors.com/2023/01/18/apple-hints-m2-macs-in-2022/",
+      "urlToImage": "https://images.macrumors.com/t/ENUxq3xBCYWdt2w4W6_Q6h3z-wQ=/2500x/article-new/2023/01/Apple-MacBook-Pro-M2-Feature-Blue-Green.jpg",
+      "publishedAt": "2023-01-18T05:02:05Z",
+      "content": "Information embedded within Apple's website suggests that this week's new Mac announcements, including the M2 Pro and M2 Max chips, were initially set to be unveiled in October or November of last ye… [+2468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tennessean"
+      },
+      "author": ", The Tennessean",
+      "title": "Vanderbilt's Jerry Stackhouse spoke to team about Darius Miles murder charge - Tennessean",
+      "description": "Vanderbilt basketball coach Jerry Stackhouse addressed his team before Tuesday's game about Alabama player charged with murder.",
+      "url": "https://www.tennessean.com/story/sports/college/vanderbilt/2023/01/18/vanderbilt-basketball-jerry-stackhouse-on-darius-miles-murder-charge-alabama-basketball/69816729007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/11/PNAS/06661d1b-a1c5-440f-bbd0-7f72ba01b5d6-USATSI_19762046.jpg?auto=webp&crop=3738,2103,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2023-01-18T04:26:27Z",
+      "content": "Coach Jerry Stackhouse said he emphasized the circumstances around the Alabama basketball team in a pregame speech for his Vanderbilt basketball team Tuesday, referencing Alabama player Darius Miles,… [+1695 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Margaret Stafford",
+      "title": "Art professor sues after firing over Prophet Muhammad images - The Associated Press - en Español",
+      "description": "ST. PAUL, Minn. (AP) — Attorneys for an adjunct art professor said Tuesday she is suing the Minnesota university that dismissed her  after a Muslim student objected to depictions of the Prophet Muhammad in a global art course, while the university admitted to…",
+      "url": "https://apnews.com/article/colleges-and-universities-minnesota-st-paul-religion-ba1f75e62e6c73eb46117d7f8394b3a4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9660ac2f1af94d559e0b325d16189f4e/3000.webp",
+      "publishedAt": "2023-01-18T04:07:30Z",
+      "content": "ST. PAUL, Minn. (AP) Attorneys for an adjunct art professor said Tuesday she is suing the Minnesota university that dismissed her after a Muslim student objected to depictions of the Prophet Muhammad… [+4277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Record-Breaking Signal From Distant Galaxy Is Furthest of Its Kind Ever Detected - ScienceAlert",
+      "description": "Hydrogen is a key building block of the cosmos.",
+      "url": "https://www.sciencealert.com/record-breaking-signal-from-distant-galaxy-is-furthest-of-its-kind-ever-detected",
+      "urlToImage": "https://www.sciencealert.com/images/2023/01/GMRTelescope.jpg",
+      "publishedAt": "2023-01-18T03:47:33Z",
+      "content": "Hydrogen is a key building block of the cosmos. Whether stripped down to its charged core, or piled into a molecule, the nature of its presence can tell you a lot about the Universe's features on the… [+3220 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Apple indefinitely postpones launch of AR glasses - Bloomberg News - Reuters",
+      "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> has postponed the launch of its lightweight augmented-reality glasses indefinitely due to technical challenges, but is still planning to unveil its first mixed-reality h…",
+      "url": "https://www.reuters.com/technology/apple-indefinitely-postpones-launch-ar-glasses-bloomberg-news-2023-01-18/",
+      "urlToImage": "https://www.reuters.com/resizer/rhSCwc4D20BT8kwwTmQWRjFuKI4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q5L7PYFD3RPW7AU5GNNPEUSXEA.jpg",
+      "publishedAt": "2023-01-18T03:47:00Z",
+      "content": "Jan 17 (Reuters) - Apple Inc (AAPL.O) has postponed the launch of its lightweight augmented-reality glasses indefinitely due to technical challenges, but is still planning to unveil its first mixed-r… [+1342 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Amy Gardner, Dan Rosenzweig-Ziff",
+      "title": "Solomon Peña's plot to shoot Democrats' homes was motivated by false claims of a stolen election, New Mexcico authorities say - The Washington Post",
+      "description": "Solomon Peña, a defeated candidate for the state legislature, paid people to fire on the houses of four Democratic office-holders, authorities say.",
+      "url": "https://www.washingtonpost.com/politics/2023/01/17/solomon-pea-shooting-new-mexico/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5NITRDEWB4I63ILTMHQFL3BE54.jpg&w=1440",
+      "publishedAt": "2023-01-18T02:39:40Z",
+      "content": "Comment on this story\r\nThe arrest of a defeated candidate for the New Mexico legislature on charges that he orchestrated a plot to shoot up the homes of four Democratic officials in Albuquerque promp… [+9787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Ryan Gajewski",
+      "title": "Brian Cox Backs J.K. Rowling Over Trans Controversy, Calls Her Critics “High-and-Mighty” - Hollywood Reporter",
+      "description": "The actor discussed recent Scottish legislation aimed at making it easier for transgender people to legally change their gender.",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/brian-cox-backs-jk-rowling-transgender-backlash-1235302678/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/GettyImages-1402761673.jpg?w=1024",
+      "publishedAt": "2023-01-18T02:25:03Z",
+      "content": "Brian Cox is offering his support for J.K. Rowling amid ongoing debate surrounding the Harry Potter author’s previous comments that have been criticized as transphobic.\r\nCox, who plays patriarch Loga… [+1623 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Philippines’s Maria Ressa acquitted of tax evasion - Al Jazeera English",
+      "description": "Appellate tax court clears Philippine Nobel laureate Maria Ressa of all four charges of tax evasion filed against her.",
+      "url": "https://www.aljazeera.com/news/2023/1/18/philippiness-maria-ressa-acquitted-of-tax-evasion",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/2023-01-18T013745Z_893182427_RC2PSY9CYNJE_RTRMADP_3_PHILIPPINES-MEDIA.jpg?resize=1920%2C1333",
+      "publishedAt": "2023-01-18T02:08:43Z",
+      "content": "Philippine Nobel laureate Maria Ressa and her online news outlet Rappler have been acquitted of tax evasion.\r\nThe ruling by an appellate court on Wednesday handed Ressa a victory in a case she has de… [+4124 chars]"
+    }
+  ]
+}
